@@ -1,0 +1,24 @@
+body{
+    background-color: darkblue;
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    color: white;
+}
+h1{
+    color:gold;
+}
+h3{
+    color:gold;
+}
+#object, #accuracy{
+    color:gold;
+}
+#Check{
+    background-color: greenyellow;
+    width: 120px;
+    border-style: none;
+}
+#take_image{
+    background-color:hotpink;
+    width: 120px;
+    border-style: none;
+}
